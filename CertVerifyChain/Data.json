@@ -1,0 +1,5 @@
+{
+  "CACertName": "CN=Aristocrat Technologies nConnect Root CA, OU=D&D, O=Aristocrat Technologies, S=Nevada, C=US",
+  "CertToBeInstalled": ".\\LicenseValidationCertificate.pfx",
+  "Password": "rampart"
+}
